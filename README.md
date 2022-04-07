@@ -28,7 +28,7 @@ Deployed App:
 
 An example screenshot of the application is below.
 
-![screenshot](assets\Screenshot BudgetVault.png)
+![screenshot] (assets\Screenshot BudgetVault.png)
 
 
 ## Contributing
@@ -37,4 +37,4 @@ If you want to contribute, open a Pull Request and include a detailed descriptio
 
 ## Questions
 
-If you have any questions about the application, open an issue or contact [sean-mckeag](https://github.com/mckeags7) directly at mckeags7@gmail.com.
+If you have any questions about the application, open an issue or contact [Sean Mckeag](https://github.com/mckeags7) directly at mckeags7@gmail.com.
