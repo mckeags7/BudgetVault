@@ -1,8 +1,8 @@
-# Budget Tracker (PWA)
+# Budget Vault (PWA)
 
 ## Description
 
-Budget Tracker is a progressive web application. It enables users to track their budget even when offline. They are able to add a transaction with or without a connection. When a user enters information while offline, these transactions are stored in the indexedDB, and transferred to the database when the user comes back online.
+Budget Vault is a progressive web application. It enables users to track their budget even when offline. They are able to add a transaction with or without a connection. When a user enters information while offline, their transactions are stored in the indexedDB, and transferred to the database when the user comes back online.
 
 ## Table of Contents
 
