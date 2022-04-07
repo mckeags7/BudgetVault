@@ -28,7 +28,7 @@ Deployed App:
 
 An example screenshot of the application is below.
 
-![screenshot](C:\Users\18608\Documents\GitHub\BudgetVault\assets\ScreenshotBudgetVault.png)
+![screenshot](assets\ScreenshotBudgetVault.jpg)
 
 
 ## Contributing
