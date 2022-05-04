@@ -16,7 +16,6 @@ Budget Vault is a progressive web application. It enables users to track their b
 
 To install, navigate to the Develop folder and in the terminal, run `npm install`
 
-This package assumes there is a MongoDB server running on localhost:27017. If your server is running somewhere else, you can edit `server.js`.
 
 ## Usage
 
